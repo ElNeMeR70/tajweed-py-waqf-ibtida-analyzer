@@ -1,0 +1,7 @@
+[project]
+name = "tajweed-py-waqf-ibtida-analyzer"
+version = "1.0.0"
+description = "Syntactic-Semantic Waqf & Ibtida Pause Classifier (مصنف الوقف التام والكافي والحسن والقبيح)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
